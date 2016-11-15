@@ -1,0 +1,17 @@
+Domain\Task.class
+Controller\ResourceController.class
+Service\ProjectService.class
+Repository\IProjectDAO.class
+Repository\ITaskDAO.class
+Domain\Resource.class
+Domain\Volunteer.class
+Controller\TaskController.class
+Service\TaskService.class
+Domain\Status.class
+Domain\Admin.class
+Domain\User.class
+Domain\Beneficiary.class
+Repository\IResourceDAO.class
+Domain\Project.class
+Controller\ProjectController.class
+Repository\ProjectDAO.class
